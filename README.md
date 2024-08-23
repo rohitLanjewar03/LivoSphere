@@ -4,6 +4,7 @@ significantly enhance user engagement and decision-making. The website allows us
 
 ## Documentation
 __Contributors__: [Aarya Chinnawar](https://github.com/aaryachinnawar), [Anchal Chepurwar](https://github.com/anchal1024), [Rohit Langewar](https://github.com/rohitLanjewar03), [Shekhar Nipane](https://github.com/kasnk), [Shreyas Chaurey](https://github.com/shreyasc60)
+
 __Teamn Name__: The Script Squad
 __Team No.__: 25
 
